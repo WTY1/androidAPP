@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\c1886621c098f5f2998e8430ab142e2994d36633\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e48af683d9674731f4a7cfcf3f08470f5c8484fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\8e049fd71038f04df5e0e0d57a4c01af2923627f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d9a35e54a19d89e3d20b7f9bc936c647cc42f33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\7a6fd0d188268c00a073926a8e9101a1211d0a0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0336c8ccc928ed83ac778224570191b2e64d8d35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\5906837ab588970c90558eacff67403b124f7106\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4fc90a220d6fed2dc59b7de217706bbd0bf57d51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\e57e84f6f0ef4df7f264023c57d60cf126339412\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dcb5c6cf067cc4e020f2586f44eee01f95bd033d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\ee018f95f5671a88afc30ce0595329a3a4f8ac5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c396d0d737aafdd6eefa5a08f2bf608fc14b6909\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\a2b369e61fad908cf8b6f1b2a15b3e84fe9bb4b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3f0bb6cf994f267bf4684a5445440c257b58722\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\70b900bbb8525a4c2ba5494e402847c943664cfb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d26fe939d04d27b29e43ef3f7be7bf0e962215d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_82b6e5d776acf90d9325d9aff8f4ed4a3eb00536\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\e704d28ea999bbf2c6f2855bed9ae076ffe56765\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93e833b1d56584c6cabfc764be859c4ef76fbd92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\c10d2b0c561a4b74d8d70bb59a14d3d415f1e6f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f147f7fc444504247ced1389c46e752d3020fba7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\f6ac6329188021305a5a79dbc4b76ae5a5b75268\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77ad5d447c03f3d3f597aa881eaeb592d42ceb98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\e62a02f5567d986180f34cdcc190eb350d63c9df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6039170cc05bf9d5eaeab92809253a1dd9bc2620\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\0aab970002ee10a8191cf4f5cd73df3b9fd8b6c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f4e033c6fdb7a572e3fe5117ee48fc8990ae102\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\6e8c64c7045805ddbe040d75e52ad89422e33f5f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec344fc1c9c2bc45b4d4781d991d24ce5cdfc391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\c9d6e800b2ae2ca39b13518aa47badc69e3c6571\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f822dfca89963ee694f56490153ec27720a4b8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\e8e519db252c3f302142f3b819cd34e0f8a8fd30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18edab5ff83ff75359496b06eb42be2e72280276\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9cdff0363c92000bc0e7bcc1d5ffbb5ce2b74d57">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cfbaa40469a2bd9d240c42de4f40660ee8db99f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\eac90de4f093c86ba8ec3bc096ef7ff70bc7f86c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f520e1d573574f2fad36c07297494851e29f536a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\5d183722b1743710af720d5daa24e761088bf87e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80db55d7d1f4d82213e9938ed5632359cfe133b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\37810cab4c26e0269fddca1bc5d3e4a1f7e781db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58c197ef75448346253146d63cd67bd3a476cd9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\532494f5624d50b925574442f91848e73ff4cbb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c7337836021320bc24d465c5bdad68d647148ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\e93c9fb8d3e07aa4a8c2956e029537ea269914ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39c7147f9184d03933295260cfda983ad3b8a10b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\9cc595c0bc68dcc9ce78496cab55737ca050653c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f34d9becf85a6c59b6d26618e0f9f8e6876e9d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\9a60662ef9d9b91da1fbb90ba865d5788f08e1e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2210e220e18841bf42d180ff9c21797d489f589\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\94ca1d350761e741af73750b31cdbb29c2c5f1a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a379c94db05c95edf17d5bf6ec6b38d491f9f4ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8468668c19db3deb593c096168fca4dcddb5edfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\319b00da856b0813f72acae984cb0df3c45ecd3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77375ac6464b1605ac70475914eb42df235de299\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\0896d360869aab0d8047e417e156617c9e5f75dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9df395cfc104e52065212fec4b7b5fb7c18232e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\6a4cc35046636085fa65d806866a448dfadb8817\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b54b061a4d30234ca09d96b7ac30263fe974e22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\b4136c16279e24510fe171b0df4d4ac9c14662b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f0f110a9e8b691edf5a19c2f1654ba0b5b0ced8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\322e8107c153a41c41a0f782bcf1ca31ce28f5e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_333e7011437a92d48081f6313b2f5b070352c1bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\b6ef5e5b3dfdb80968c598f09128105c7974e841\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5cbccff022a26335dd979bfdbe62b39442dd56b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_981461f841ffcded73187f5b01440f4e61029ae0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WTY\.android\build-cache\379855c52e8eb441785b190e7b82f6d039f5edc6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="D:\Users\WTY\AndroidStudioProjects\LaiofferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12a9d7939a45a94a6d4ed2181bd27cf0a4ab7ce0\classes.dex" />
+    </item>
+
+</items>
