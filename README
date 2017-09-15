@@ -1,0 +1,5 @@
+This is an android APP for people to upload interesting events
+my contribute is :
+  1. 	Developed an Android App for users to record interesting events around
+  2.	Recorded the events and store and retrieve events data and show in ListView from Firebase Database API
+  3.	Inserted Advertise module that user is able to put advertisement into their app so that the app is more promising to become a business app using Google Admob
